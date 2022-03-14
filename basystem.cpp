@@ -3,6 +3,8 @@
 #include<string>
 using namespace std;
 
+
+//contributions accepted
 //This The Function for the Normal User Dashboard
 void normal_dashboard()
 {
@@ -187,6 +189,7 @@ int main()
     }
     else if(choice == 1)
     {
+
      normal_dashboard();
     }
 
